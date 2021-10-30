@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
-import styles from "./home.css";
 import PropTypes from 'prop-types'
 export default class Homepage extends Component{
     static propTypes = {
